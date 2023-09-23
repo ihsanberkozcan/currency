@@ -1,0 +1,11 @@
+{
+    "name": "Currency",
+    "description": "Currency",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "home.html",
+      "default_icon": "currency.png"
+    },
+    "host_permissions": ["https://api.genelpara.com/*"]
+  }

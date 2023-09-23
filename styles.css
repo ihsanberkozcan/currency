@@ -1,0 +1,30 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #164e63;
+}
+.home {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  margin: 0;
+  width: max-content;
+}
+.currency {
+  padding: 15px;
+  margin: 5px;
+  width: 100px;
+  background: #083344;
+  border-radius: 5px;
+}
+
+.currency-title {
+  font-size: 18px;
+  color: #f9f9f9;
+  display: flex;
+}
+.currency-price {
+  font-size: 16px;
+  font-weight: 500;
+  color: #fff;
+}
